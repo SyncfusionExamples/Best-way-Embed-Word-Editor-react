@@ -1,4 +1,4 @@
-# Best-way-Embed-Word-Editor-react
+# Best way embed Word editor react
 This repository contains example how to seamlessly embed the powerful Syncfusion DOCX Editor into a React application. It showcases rich Word document (DOCX) editing and rendering directly within the browser, entirely free from Microsoft Word or Office interop dependencies.
 
 # How to run the application
